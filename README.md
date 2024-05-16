@@ -25,8 +25,8 @@ Compare Q-Learning policy and state values with Monte Carlo results for the give
 
 ## Q LEARNING FUNCTION
 ```python3
-#Name: Mohamed Anas O.I
-#Reg No: 212223110028
+#Name: LISIANA T
+#Reg No: 212222240053
 
 def q_learning(env, 
                gamma=1.0,
